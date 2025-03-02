@@ -36,16 +36,11 @@ This project simulates a simple college management system where users can perfor
 ```
 
 ## 🏃‍♂️ How to Run the Project
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/college-management-system.git
-   ```
-2. Navigate to the project directory:
+1. Navigate to the project directory:
    ```bash
    cd college-management-system
    ```
-3. Run the program:
+2. Run the program:
    ```bash
    python main.py
    ```
