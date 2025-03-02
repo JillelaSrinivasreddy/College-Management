@@ -1,4 +1,3 @@
-# College-Management
 # College Management System
 
 ## 📌 Project Description
